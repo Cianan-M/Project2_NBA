@@ -28,8 +28,9 @@
 ## Deliverables
 - [Presentation](NBA_per.pdf)
 - [Jupyter Notebook for NBA data scraping and cleaning](Data_scraping.ipynb)
-- [Jupyter Notebook Regression Analyis](Regression Analysis.ipynb)
-  - [Plosts and data files](data)
+- [Jupyter Notebook Regression Analyis](Regression_Analysis.ipynb)
+  - [Heatmap](Heatmap.png)
+  - [Regression Plot](Pred_vs_act)
 
 
 ## Data Sources
