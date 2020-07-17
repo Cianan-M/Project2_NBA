@@ -1,6 +1,6 @@
 # Project2_NBA
 # This is a group project that is part of the Metis Data Science Bootcamp
-# The goal of this project is to predict teh length of an NBA players career based of their performance teh first two years of their career
+# The goal of this project is to predict the length of an NBA players career based of their performance teh first two years of their career
 ## Members:
 + Cianan Murphy
 
