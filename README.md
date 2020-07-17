@@ -22,7 +22,7 @@
   - Heatmap that compares these three values
 - Linear Regression of aformentioned variables:
   - With the independent variable being career length
-  - Plotted predicted values vs actual values fro career length
+  - Plotted predicted values vs actual values for career length
 
 
 ## Deliverables
