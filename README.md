@@ -27,7 +27,7 @@
 
 ## Deliverables
 - [Presentation](NBA_per.pdf)
-- [Jupyter Notebook for NBA data scraping and cleaninf](Data_scraping.ipynb)
+- [Jupyter Notebook for NBA data scraping and cleaning](Data_scraping.ipynb)
 - [Jupyter Notebook Regression Analyis](Regression Analysis.ipynb)
   - [Plosts and data files](data)
 
